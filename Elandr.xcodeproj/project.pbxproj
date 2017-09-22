@@ -14,6 +14,8 @@
 		C3BC98BB1F7331B900F582DC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C3BC98B91F7331B900F582DC /* LaunchScreen.storyboard */; };
 		C3BC98C61F7331B900F582DC /* ElandrTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3BC98C51F7331B900F582DC /* ElandrTests.swift */; };
 		C3BC98D11F7331B900F582DC /* ElandrUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3BC98D01F7331B900F582DC /* ElandrUITests.swift */; };
+		C3F89A851F746BDB0044E2E3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C3BC98B41F7331B900F582DC /* Main.storyboard */; };
+		C3F89A861F746BDC0044E2E3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C3BC98B41F7331B900F582DC /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -242,6 +244,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C3F89A861F746BDC0044E2E3 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -249,6 +252,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C3F89A851F746BDB0044E2E3 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -505,6 +509,7 @@
 				C3BC98D71F7331B900F582DC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C3BC98D81F7331B900F582DC /* Build configuration list for PBXNativeTarget "ElandrTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +518,7 @@
 				C3BC98DA1F7331B900F582DC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C3BC98DB1F7331B900F582DC /* Build configuration list for PBXNativeTarget "ElandrUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +527,7 @@
 				C3BC98DD1F7331B900F582DC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
